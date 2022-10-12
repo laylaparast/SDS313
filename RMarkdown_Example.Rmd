@@ -27,7 +27,6 @@ Let's get a summary of the variables:
 
 ```{r}
 summary(shelter)
-```
 
 # **2. Making Tables**
 
